@@ -34,7 +34,7 @@ This is a commercial application, for more information please access the [produc
 
 ```
 $ git clone https://github.com/app-generator/flask-html5up-highlights.git
-$ flask-html5up-highlights
+$ cd flask-html5up-highlights
 $ pip install -r requirements.txt 
 $ flask run
 ```
